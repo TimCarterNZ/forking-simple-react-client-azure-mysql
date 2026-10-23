@@ -33,7 +33,7 @@ export function Countries() {
       <table>
         <thead>
           <tr>
-            <th>Name</th>
+            <th>Naaaaaame</th>
             <th>Continent</th>
             <th>Region</th>
             <th>Population</th>
